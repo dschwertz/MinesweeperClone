@@ -1,0 +1,5 @@
+rootProject.name = 'Minesweeper'
+include 'sample'
+include 'modelSrc'
+include 'sampleSrc'
+
